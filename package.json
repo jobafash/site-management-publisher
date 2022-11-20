@@ -1,0 +1,14 @@
+{
+  "name": "site-management-publisher",
+  "version": "1.0.0",
+  "description": "Publisher for site management API",
+  "main": "app.ts",
+  "repository": "https://github.com/jobafash/site-management-publisher",
+  "author": "<osemudiamenitua@gmail.com>, <jobafash3@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "node-cron": "^3.0.2"
+  }
+}
